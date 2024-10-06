@@ -31,7 +31,7 @@ A simple and intuitive weather dashboard built with **HTML**, **CSS**, and **Jav
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AsratY/weatherly.git
+   git clone https://github.com/AsratY/weatherly-dashboard.git
    ```
 
 2. Navigate into the project directory:
